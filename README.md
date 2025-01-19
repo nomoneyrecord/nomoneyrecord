@@ -1,16 +1,14 @@
-## Hi there 👋
+### Well hello! 👋 I'm Gary Hughes Jr
 
-<!--
-**nomoneyrecord/nomoneyrecord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Software Engineer
 
-Here are some ideas to get you started:
+- 🔭 Self taught software engineer since 2022 
+- 🛠 Love building innovative tech solutions using clean, tested, and effective coding practices
+- 👨🏼‍💻 Big supporter of system design and architectural elegance
+- ⚡ Fun fact: When I was 7 years old I fell into a volcano, drowned in a pool, and was resuscitated all in the same day. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[![website link]
+
+##Languages & Tools:

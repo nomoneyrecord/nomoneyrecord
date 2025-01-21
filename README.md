@@ -9,6 +9,14 @@
 
 ### Connect with me:
 
-[![website link]
+[![website link](/images/web.png)](https://garyhughesjr.netlify.app/)
+[![linkedin profile url](/images/linkedin.png)](https://www.linkedin.com/in/gary-hughes-jr-64925b229/)
 
-##Languages & Tools:
+Languages & Tools:
+
+![python icon](/images/python.png)
+![javascript](/images/javascript.png)
+![html](/images/html.png)
+![css](/images/css.png)
+![elephantsql](/images/elephantsql.png)
+![visual studio icon](/images/vscode.png)
